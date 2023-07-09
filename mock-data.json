@@ -1,0 +1,182 @@
+[
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 1,
+    "name": "steak",
+    "price": "$37.27"
+  },
+  {
+    "description": "Refreshing salad with mixed greens and vinaigrette",
+    "id": 2,
+    "name": "curry",
+    "price": "$40.04"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 3,
+    "name": "pasta",
+    "price": "$41.83"
+  },
+  {
+    "description": "Savory steak with mashed potatoes and gravy",
+    "id": 4,
+    "name": "sushi",
+    "price": "$39.41"
+  },
+  {
+    "description": "Creamy pasta with garlic and parmesan",
+    "id": 5,
+    "name": "sushi",
+    "price": "$50.51"
+  },
+  {
+    "description": "Mouthwatering burger with bacon and avocado",
+    "id": 6,
+    "name": "ice cream",
+    "price": "$28.08"
+  },
+  {
+    "description": "Savory steak with mashed potatoes and gravy",
+    "id": 7,
+    "name": "pizza",
+    "price": "$50.89"
+  },
+  {
+    "description": "Creamy pasta with garlic and parmesan",
+    "id": 8,
+    "name": "steak",
+    "price": "$52.86"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 9,
+    "name": "curry",
+    "price": "$37.59"
+  },
+  {
+    "description": "Mouthwatering burger with bacon and avocado",
+    "id": 10,
+    "name": "salad",
+    "price": "$38.64"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 11,
+    "name": "curry",
+    "price": "$32.59"
+  },
+  {
+    "description": "Mouthwatering burger with bacon and avocado",
+    "id": 12,
+    "name": "sushi",
+    "price": "$35.02"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 13,
+    "name": "pasta",
+    "price": "$55.30"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 14,
+    "name": "salad",
+    "price": "$20.91"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 15,
+    "name": "sandwich",
+    "price": "$51.29"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 16,
+    "name": "pizza",
+    "price": "$26.67"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 17,
+    "name": "sushi",
+    "price": "$48.49"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 18,
+    "name": "salad",
+    "price": "$32.19"
+  },
+  {
+    "description": "Refreshing salad with mixed greens and vinaigrette",
+    "id": 19,
+    "name": "curry",
+    "price": "$45.39"
+  },
+  {
+    "description": "Refreshing salad with mixed greens and vinaigrette",
+    "id": 20,
+    "name": "sushi",
+    "price": "$58.77"
+  },
+  {
+    "description": "Savory steak with mashed potatoes and gravy",
+    "id": 21,
+    "name": "ice cream",
+    "price": "$55.46"
+  },
+  {
+    "description": "Mouthwatering burger with bacon and avocado",
+    "id": 22,
+    "name": "curry",
+    "price": "$31.83"
+  },
+  {
+    "description": "Mouthwatering burger with bacon and avocado",
+    "id": 23,
+    "name": "burger",
+    "price": "$23.84"
+  },
+  {
+    "description": "Refreshing salad with mixed greens and vinaigrette",
+    "id": 24,
+    "name": "pasta",
+    "price": "$39.61"
+  },
+  {
+    "description": "Savory steak with mashed potatoes and gravy",
+    "id": 25,
+    "name": "sushi",
+    "price": "$39.81"
+  },
+  {
+    "description": "Creamy pasta with garlic and parmesan",
+    "id": 26,
+    "name": "curry",
+    "price": "$16.60"
+  },
+  {
+    "description": "Creamy pasta with garlic and parmesan",
+    "id": 27,
+    "name": "salad",
+    "price": "$28.88"
+  },
+  {
+    "description": "Creamy pasta with garlic and parmesan",
+    "id": 28,
+    "name": "ice cream",
+    "price": "$34.98"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 29,
+    "name": "ice cream",
+    "price": "$34.91"
+  },
+  {
+    "description": "Delicious pizza with pepperoni and cheese",
+    "id": 30,
+    "name": "burger",
+    "price": "$20.18"
+  }
+]
